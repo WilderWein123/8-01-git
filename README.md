@@ -77,6 +77,8 @@ https://github.com/netology-code/sys-pattern-homework/commit/4fe78bc763b16bddaf2
 
 ![скрин для Git](https://github.com/netology-code/sdvps-homeworks/assets/77622076/e73589cf-7e97-40e5-ac01-d1d55376f1b9)
 
+https://github.com/WilderWein123/8-01-git/network
+
 ---
 ## Дополнительные задания* (со звёздочкой)
 
@@ -98,3 +100,6 @@ https://github.com/netology-code/sys-pattern-homework/commit/4fe78bc763b16bddaf2
 7. Сделайте мердж ветки conflict в основную ветку и решите конфликт так, чтобы в результате в файле оказался код из ветки conflict.
 
 В качестве ответа на задание прикрепите ссылку на граф коммитов https://github.com/ваш-логин/ваш-репозиторий/network в ваш md-файл с решением.
+
+https://github.com/WilderWein123/8-01-git/network
+---
