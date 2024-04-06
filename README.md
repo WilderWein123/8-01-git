@@ -39,6 +39,8 @@
 
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
 
+https://github.com/netology-code/sys-pattern-homework/commit/59ea3c0381e5e0a64ba6cc4b33902af5bc61cd8a
+
 ---
 
 ### Задание 2
