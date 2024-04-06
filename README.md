@@ -54,6 +54,8 @@ https://github.com/netology-code/sys-pattern-homework/commit/59ea3c0381e5e0a64ba
 
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
 
+https://github.com/netology-code/sys-pattern-homework/commit/4fe78bc763b16bddaf25484df49b2fbf988b7516
+
 ---
 
 ### Задание 3
