@@ -102,3 +102,5 @@ https://github.com/WilderWein123/8-01-git/network
 В качестве ответа на задание прикрепите ссылку на граф коммитов https://github.com/ваш-логин/ваш-репозиторий/network в ваш md-файл с решением.
 
 https://github.com/WilderWein123/8-01-git/network
+
+----
